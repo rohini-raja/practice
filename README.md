@@ -1,6 +1,4 @@
-# practice questions
-Just some random problems solved 
-
+# practice questions 
 1. Nth fibonacci (recursive,iterative and using dynamic programming) - Algoexpert
 
 2. RemoveDuplicates from sorted array - Leetcode
@@ -10,5 +8,6 @@ Just some random problems solved
 4. Two Sum - Leetcode
 
 5.Reverse a string - Leetcode
-
+  
 6.Plus one - Leetcode
+  
