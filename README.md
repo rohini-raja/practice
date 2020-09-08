@@ -8,3 +8,7 @@ Just some random problems solved
 3. Best Time To Buy And Sell Stock II - Leetcode
 
 4. Two Sum - Leetcode
+
+5.Reverse a string - Leetcode
+
+6.Plus one - Leetcode
