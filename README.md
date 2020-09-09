@@ -7,7 +7,8 @@
 
 4. Two Sum - Leetcode
 
-5.Reverse a string - Leetcode
+ 5.Reverse a string - Leetcode
   
-6.Plus one - Leetcode
+ 6.Plus one - Leetcode
   
+ 7.3Sum - Leetcode
