@@ -7,8 +7,14 @@
 
 4. Two Sum - Leetcode
 
- 5.Reverse a string - Leetcode
+5.Reverse a string - Leetcode
   
- 6.Plus one - Leetcode
+6.Plus one - Leetcode
   
- 7.3Sum - Leetcode
+7.3Sum - Leetcode
+
+8.Maximum consecutive ones - Leetcode
+
+9.Squares of a sorted array - Leetcode
+
+10.Find numbers with even number of digits - Leetcode
