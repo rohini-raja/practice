@@ -1,4 +1,6 @@
 # practice questions 
+
+
 1. Nth fibonacci (recursive,iterative and using dynamic programming) - Algoexpert
 
 2. RemoveDuplicates from sorted array - Leetcode
@@ -18,3 +20,7 @@
 9.Squares of a sorted array - Leetcode
 
 10.Find numbers with even number of digits - Leetcode
+
+11.Move zeroes to the end - Leetcode
+
+12.Single number  - Leetcode
