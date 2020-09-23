@@ -24,3 +24,5 @@
 11.Move zeroes to the end - Leetcode
 
 12.Single number  - Leetcode
+
+13. Two Sum II - Input array is sorted - Leetcode
