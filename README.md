@@ -26,3 +26,9 @@
 12.Single number  - Leetcode
 
 13. Two Sum II - Input array is sorted - Leetcode
+
+14. Remove adjacent pairs in a string - Leetcode
+
+15. Pair of songs divisible by 60 - LC
+
+16. Reverse Words in a String III - LC
